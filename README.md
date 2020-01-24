@@ -1,3 +1,7 @@
+## Objetivo
+
+Este projeto tem como objetivo buscar informações de um CEP via API(ViaCep), e preencher os campos com as informações recebidas.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
